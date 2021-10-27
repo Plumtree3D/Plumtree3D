@@ -11,8 +11,8 @@
 <br>
 
 <p align="center">
-  <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-  <img width="400" src="https://github.com/YuriDevAT/smart-shopping-list/blob/main/public/Thumbnail.png" />
+
+![alt text](https://github.com/plumtree/plumtree/blob/main/rock-paper-scissors.jpg?raw=true)
 
 
 ---

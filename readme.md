@@ -33,6 +33,8 @@
 
 
 ---
+
+<h2 align="center"> About me 🎃 </h2>
 <p align="center">
     <a href="https://ilanr.promo-93.codeur.online/portfolio/"> <img src="https://img.shields.io/badge/-My_Portfolio-9999FF?style=flat-square&?color=9999FF" alt="LinkedIn"/> </a> &nbsp;
     <a href="https://www.linkedin.com/in/c%C3%A9leste-robert-casals/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&?color=0A66C2" alt="LinkedIn"/> </a> &nbsp;
@@ -40,3 +42,17 @@
 </p>
 <br />
 
+<ul>
+  <li> 🌱 I'm currently learning ... PHP and SQL, as well as database admining.
+  <li> 💬 Ask me about ... 70's to 90's synthesizers... Or maybe don't, because I won't shut it up. 
+  <li> 📫 How to reach me: There are buttons to my portfolio and LinkedIn right above. ⬆ 
+  <li> 😊 Pronouns: I like They/Them better.
+  <li> ⚡ Fun fact: From 1997 to 2017, the honorary mayor of the little Alaskan town of Talkeetna was an orange cat named Stubbs.
+</ul>
+<br/>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plumtree3D&theme=synthwave" width="400">
+</p>
+
+ 

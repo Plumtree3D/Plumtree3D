@@ -23,7 +23,7 @@
   <img src="images/second-hand.jpg" width="400">
   </a>
   <a href=https://github.com/Plumtree3D/symmetrical-succotash>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plumtree3D&repo=symmetrical-succotash&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plumtree3D&repo=symmetrical-succotash&theme=jolly" />
   </a>
   <a href=https://github.com/Plumtree3D/music-band>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plumtree3D&repo=second_hand&&theme=jolly" />

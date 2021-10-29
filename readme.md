@@ -2,7 +2,6 @@
   <h1 align="center"> ⭐ Hello and welcome ⭐ <br> to Celeste's GitHub profile! </h1>
 </p>
 
----
 <p align="center"> Hi, my name is Céleste, I am a french, twenty-something years old student attending the Access Code School course in Lons-le-Saunier (France), I am learning back and front end web development for desktop and mobile devices. 💻 </p>
 
 ---

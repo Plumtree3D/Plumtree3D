@@ -1,4 +1,4 @@
-<p backgroundColor="blue">
+<p>
   <h1 align="center"> ⭐ Hello and welcome ⭐ <br> to Celeste's GitHub profile! </h1>
 </p>
 

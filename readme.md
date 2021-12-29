@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="images/rock-paper-scissors.jpg" width="400">
-  <img src="images/birthday.jpg" width="160">
+  <img src="images/birthday.jpg" width="400">
   <a href=https://github.com/Plumtree3D/Rock-paper-scissors-lizard-spock>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Plumtree3D&repo=Rock-paper-scissors-lizard-spock&theme=jolly" />
   </a>

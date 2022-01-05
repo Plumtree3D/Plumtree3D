@@ -46,7 +46,7 @@
   <li> 💬 Ask me about ... 70's to 90's synthesizers... Or maybe don't, because I won't shut it up. 
   <li> 📫 How to reach me: There are buttons to my portfolio and LinkedIn right above. ⬆ 
   <li> 😊 Pronouns: I like They/Them better.
-  <li> ⚡ Fun fact: From 1997 to 2017, the honorary mayor of the little Alaskan town of Talkeetna was an orange cat named Stubbs.
+  <li> ⚡ Fun fact: Microwave ovens were first invented to ressucite hamster.
 </ul>
 <br/>
 

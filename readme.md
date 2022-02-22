@@ -42,7 +42,7 @@
 <br />
 
 <ul>
-  <li> 🌱 I'm currently learning ... Wordpress! I'm learning how to create themes and plugins for wordpress.
+  <li> 🌱 I'm currently learning ... A lot of stuff! I'm doing an internship and working on a big website! 
   <li> 💬 Ask me about ... 70's to 90's synthesizers... Or maybe don't, because I won't shut it up. 
   <li> 📫 How to reach me: There are buttons to my portfolio and LinkedIn right above. ⬆ 
   <li> 😊 Pronouns: I like They/Them better.

@@ -15,7 +15,7 @@
 <br />
 
 <ul>
-  <li> 🌱 I'm currently learning ... Node.JS and fooling around with API's 
+  <li> 🌱 I'm currently learning ... React and extended REST API uses 
   <li> 💬 Ask me about ... 70's to 90's synthesizers... Or maybe don't, because I won't shut it up. 
   <li> 📫 How to reach me: There are buttons to my portfolio and LinkedIn right above. ⬆ 
   <li> 😊 Pronouns: I like They/Them better.

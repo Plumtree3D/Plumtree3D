@@ -8,8 +8,8 @@
 
 <h2 align="center"> About me 🎃 </h2>
 <p align="center">
-    <a href="https://celesterobert.me"> <img src="https://img.shields.io/badge/-My_Portfolio-9999FF?style=flat-square&?color=9999FF" alt="LinkedIn"/> </a> &nbsp;
-    <a href="https://www.linkedin.com/in/c%C3%A9leste-robert-casals/"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&?color=0A66C2" alt="LinkedIn"/> </a> &nbsp;
+    <a href="https://cel.este.fyi"> <img src="https://img.shields.io/badge/-cel.este.fyi-9999FF?style=flat-square&?color=9999FF" alt="Personnal site"/> </a> &nbsp;
+    <a href="https://gitlab.com/Plumtree3D"> <img src="https://img.shields.io/badge/-GitLab-0A66C2?style=flat-square&logo=linkedin&?color=0A66C2" alt="Gitlab"/> </a> &nbsp;
     <a href="https://stackoverflow.com/users/16712567/plumtree"> <img src="https://img.shields.io/badge/-StackOverflow-FFFFFF?style=flat-square&logo=stackoverflow&?color=F58025" alt="LinkedIn"/> </a> &nbsp;
 </p>
 <br />
